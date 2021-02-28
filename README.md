@@ -11,13 +11,11 @@
 <img src = images/ss1.jpg width="200" height="400"/>    
 
 <br>
-<br>
 
 ### **<u>People Fragment</u>**
 
 <img src = images/ss2.jpg width="200" height="400"/> 
 
-<br>
 <br>
 
 ### **<u>Chat Activity</u>**
